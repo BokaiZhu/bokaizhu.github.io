@@ -20,9 +20,9 @@ My doctoral research focused on:
 Selected Publications
 ======
 [Integration of spatial and single-cell data across modalities with weakly linked features](https://www.nature.com/articles/s41587-023-01935-0)\
-Shuxiao Chen \*, __Bokai Zhu \*__, Sijia Huang, John W. Hickey, Kevin Z. Lin, Michael Snyder, William J. Greenleaf, Garry P. Nolan \#, Nancy R. Zhang \# & Zongming Ma \#\
+Shuxiao Chen\*, __Bokai Zhu\*__, Sijia Huang, John W. Hickey, Kevin Z. Lin, Michael Snyder, William J. Greenleaf, Garry P. Nolan\#, Nancy R. Zhang\# & Zongming Ma\# \
 *Nature Biotechnology* (2023)
 
 [Robust single-cell matching and multimodal analysis using shared and distinct features](https://www.nature.com/articles/s41592-022-01709-7)\
-__Bokai Zhu \*__, Shuxiao Chen \*, Yunhao Bai, Han Chen, Guanrui Liao, Nilanjan Mukherjee, Gustavo Vazquez, David R. McIlwain, Alexandar Tzankov, Ivan T. Lee, Matthias S. Matter, Yury Goltsev, Zongming Ma \#, Garry P. Nolan \# & Sizun Jiang \#\
+__Bokai Zhu\*__, Shuxiao Chen\*, Yunhao Bai, Han Chen, Guanrui Liao, Nilanjan Mukherjee, Gustavo Vazquez, David R. McIlwain, Alexandar Tzankov, Ivan T. Lee, Matthias S. Matter, Yury Goltsev, Zongming Ma\#, Garry P. Nolan\# & Sizun Jiang\# \
 *Nature Methods* (2023)
