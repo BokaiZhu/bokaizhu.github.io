@@ -16,4 +16,4 @@ My doctoral research focused on:
 
 * Experimental assay development for multiplex imaging platforms
 * Computational algorithm development for single-cell multi-omic integrations
-* Application of the above tools in biological systems (e.g., Microbiome, Cancer, Infectious disease)
+* Application of the above tools in various biological systems
