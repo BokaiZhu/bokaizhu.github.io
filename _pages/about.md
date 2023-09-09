@@ -13,7 +13,6 @@ I'm currently a postdoctoral researcher at the Ragon Institute at MGH, MIT, and 
 Research Interest
 ======
 My doctoral research focused on:
-
 * Experimental assay development for multiplex imaging platforms
 * Computational algorithm development for single-cell multi-omic integrations
 * Application of the above tools in various biological systems
