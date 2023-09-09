@@ -15,7 +15,7 @@ Recent
 *Nature Biotechnology* (2023)
 
 [Expanded vacuum-stable gels for multiplexed high-resolution spatial histopathology](https://www.nature.com/articles/s41467-023-39616-w)\
-Yunhao Bai, __Bokai Zhu__, John-Paul Oliveria, Bryan J. Cannon, Dorien Feyaerts, Marc Bosse, Kausalia Vijayaragavan, Noah F. Greenwald, Darci Phillips, Christian M. Schürch, Samuel M. Naik, Edward A. Ganio, Brice Gaudilliere, Scott J. Rodig, Michael B. Miller, Michael Angelo, Sean C. Bendall, Xavier Rovira-Clavé \#, Garry P. Nolan \# & Sizun Jiang \# \
+<sub>Yunhao Bai, __Bokai Zhu__, John-Paul Oliveria, Bryan J. Cannon, Dorien Feyaerts, Marc Bosse, Kausalia Vijayaragavan, Noah F. Greenwald, Darci Phillips, Christian M. Schürch, Samuel M. Naik, Edward A. Ganio, Brice Gaudilliere, Scott J. Rodig, Michael B. Miller, Michael Angelo, Sean C. Bendall, Xavier Rovira-Clavé \#, Garry P. Nolan \# & Sizun Jiang \# <\sub>\
 *Nature Communications* (2023)
 
 [Robust single-cell matching and multimodal analysis using shared and distinct features](https://www.nature.com/articles/s41592-022-01709-7)\
