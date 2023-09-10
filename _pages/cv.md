@@ -15,6 +15,6 @@ Education
 * B.S. in Biology (Microbiology/Biostatistic), Cornell University, 2015-2017
 * B.S. in Biology, Zhejiang University, 2013-2015
 
-Work experience
+Training
 ======
 * Postdoctoral researcher, Ragon Institute (MGH, MIT and Harvard), 2023-
