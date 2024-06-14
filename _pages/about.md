@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoctoral researcher at the Ragon Institute at MGH, MIT, and Harvard, supervised by Prof. [Alex Shalek](https://shaleklab.com/). Prior to that, I obtained my PhD degree in Microbiology and Immunology from Stanford University, under the supervision of Prof. [Garry Nolan](https://web.stanford.edu/group/nolan/index.html). I received my bachelor’s degree in Biology from Cornell University and Zhejiang Univeristy.
+I'm currently a postdoctoral researcher at the Ragon Institute at MGH, MIT, and Harvard, supervised by Prof. [Alex Shalek](https://shaleklab.com/). Prior to that, I obtained my PhD degree in Microbiology and Immunology from Stanford University, under the supervision of Prof. [Garry Nolan](https://web.stanford.edu/group/nolan/index.html). I received my bachelor’s degree in Biology from Cornell University and Zhejiang University.
 
 Research Interest
 ======
