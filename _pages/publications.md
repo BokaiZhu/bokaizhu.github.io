@@ -10,6 +10,9 @@ For full list of my publications, please refer to my [google scholar](https://sc
 Recent
 ======
 
+[A Hitchhiker’s guide to high-dimensional tissue imaging with multiplexed ion beam imaging](https://doi.org/10.1016/bs.mcb.2024.02.018)\
+<small>Yao Yu Yeo, Precious Cramer, Addison Deisher, Yunhao Bai, __Bokai Zhu__, Wan-Jin Yeo, Margaret A. Shipp, Scott J. Rodig, Sizun Jiang</small>\
+*Methods in Cell Biology* (2024)
 
 [MAPS: pathologist-level cell type annotation from tissue images through machine learning](https://www.nature.com/articles/s41467-023-44188-w)\
 <small>Muhammad Shaban, Yunhao Bai, Huaying Qiu, Shulin Mao, Jason Yeung, Yao Yu Yeo, Vignesh Shanmugam, Han Chen, __Bokai Zhu__, Jason L. Weirather, Garry P. Nolan, Margaret A. Shipp, Scott J. Rodig, Sizun Jiang & Faisal Mahmood</small>\
