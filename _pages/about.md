@@ -26,3 +26,7 @@ Shuxiao Chen\*, __Bokai Zhu\*__, Sijia Huang, John W. Hickey, Kevin Z. Lin, Mich
 [Robust single-cell matching and multimodal analysis using shared and distinct features](https://www.nature.com/articles/s41592-022-01709-7)\
 __Bokai Zhu\*__, Shuxiao Chen\*, Yunhao Bai, Han Chen, Guanrui Liao, Nilanjan Mukherjee, Gustavo Vazquez, David R. McIlwain, Alexandar Tzankov, Ivan T. Lee, Matthias S. Matter, Yury Goltsev, Zongming Ma\#, Garry P. Nolan\# & Sizun Jiang\# \
 *Nature Methods* (2023)
+
+[A multi-omics spatial framework for host-microbiome dissection within the intestinal tissue microenvironment](https://www.nature.com/articles/s41467-025-56237-7)\
+__Bokai Zhu\*__, Yunhao Bai, Yao Yu Yeo, Xiaowei Lu, Xavier Rovira-Clavé, Han Chen, Jason Yeung, Dingani Nkosi, Jonathan Glickman, Antonio Delgado-Gonzalez, Georg K. Gerber, Mike Angelo, Alex K. Shalek, Garry P. Nolan\# & Sizun Jiang \# 、
+*Nature Communications* (2025)
