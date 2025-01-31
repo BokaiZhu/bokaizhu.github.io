@@ -28,5 +28,5 @@ __Bokai Zhu\*__, Shuxiao Chen\*, Yunhao Bai, Han Chen, Guanrui Liao, Nilanjan Mu
 *Nature Methods* (2023)
 
 [A multi-omics spatial framework for host-microbiome dissection within the intestinal tissue microenvironment](https://www.nature.com/articles/s41467-025-56237-7)\
-__Bokai Zhu\*__, Yunhao Bai, Yao Yu Yeo, Xiaowei Lu, Xavier Rovira-Clavé, Han Chen, Jason Yeung, Dingani Nkosi, Jonathan Glickman, Antonio Delgado-Gonzalez, Georg K. Gerber, Mike Angelo, Alex K. Shalek, Garry P. Nolan\# & Sizun Jiang \# 、
+__Bokai Zhu__, Yunhao Bai, Yao Yu Yeo, Xiaowei Lu, Xavier Rovira-Clavé, Han Chen, Jason Yeung, Dingani Nkosi, Jonathan Glickman, Antonio Delgado-Gonzalez, Georg K. Gerber, Mike Angelo, Alex K. Shalek, Garry P. Nolan\# & Sizun Jiang \# \
 *Nature Communications* (2025)
