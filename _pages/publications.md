@@ -10,6 +10,12 @@ For full list of my publications, please refer to my [google scholar](https://sc
 Recent
 ======
 
+
+[MAPS: pathologist-level cell type annotation from tissue images through machine learning](https://www.nature.com/articles/s41467-023-44188-w)\
+<small>Muhammad Shaban, Yunhao Bai, Huaying Qiu, Shulin Mao, Jason Yeung, Yao Yu Yeo, Vignesh Shanmugam, Han Chen, __Bokai Zhu__, Jason L. Weirather, Garry P. Nolan, Margaret A. Shipp, Scott J. Rodig, Sizun Jiang & Faisal Mahmood</small>\
+*Nature Communications* (2024)
+
+
 [Integration of spatial and single-cell data across modalities with weakly linked features](https://www.nature.com/articles/s41587-023-01935-0)\
 <small>Shuxiao Chen\*, __Bokai Zhu\*__, Sijia Huang, John W. Hickey, Kevin Z. Lin, Michael Snyder, William J. Greenleaf, Garry P. Nolan\#, Nancy R. Zhang\# & Zongming Ma\# </small>\
 *Nature Biotechnology* (2023)
