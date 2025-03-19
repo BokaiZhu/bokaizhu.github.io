@@ -20,7 +20,7 @@ My doctoral research focused on:
 Selected Publications
 ======
 
-<span style="font-size: 70%">
+<span style="font-size: 80%">
 (Chronologically ordered)
 
 [Cross-domain information fusion for enhanced cell population delineation in single-cell spatial-omics data](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1)\
