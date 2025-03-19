@@ -19,6 +19,8 @@ My doctoral research focused on:
 
 Selected Publications
 ======
+###(Chronologically ordered)
+
 [Integration of spatial and single-cell data across modalities with weakly linked features](https://www.nature.com/articles/s41587-023-01935-0)\
 Shuxiao Chen\*, __Bokai Zhu\*__, Sijia Huang, John W. Hickey, Kevin Z. Lin, Michael Snyder, William J. Greenleaf, Garry P. Nolan\#, Nancy R. Zhang\# & Zongming Ma\# \
 *Nature Biotechnology* (2023)
