@@ -19,6 +19,8 @@ My doctoral research focused on:
 
 Selected Publications
 ======
+<div style="font-size: 0.9em;"> <!-- Adjust the number to control size -->
+
 (Chronologically ordered)
 
 [Cross-domain information fusion for enhanced cell population delineation in single-cell spatial-omics data](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1)\
@@ -40,4 +42,6 @@ Shuxiao Chen\*, __Bokai Zhu\*__, Sijia Huang, John W. Hickey, Kevin Z. Lin, Mich
 [Robust single-cell matching and multimodal analysis using shared and distinct features](https://www.nature.com/articles/s41592-022-01709-7)\
 __Bokai Zhu\*__, Shuxiao Chen\*, Yunhao Bai, Han Chen, Guanrui Liao, Nilanjan Mukherjee, Gustavo Vazquez, David R. McIlwain, Alexandar Tzankov, Ivan T. Lee, Matthias S. Matter, Yury Goltsev, Zongming Ma\#, Garry P. Nolan\# & Sizun Jiang\# \
 *Nature Methods* (2023)
+
+</div>
 
