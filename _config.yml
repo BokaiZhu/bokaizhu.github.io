@@ -84,7 +84,7 @@ author:
   avatar           : "head.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "MGH/MIT/Broad"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZfCfEYcAAAAJ&hl=en"
   email            : "bz263@cornell.edu"
