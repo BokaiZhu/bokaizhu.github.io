@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 ### Integration between single-cell genomics and spatial-omics
-- **[MaxFuse](https://github.com/shuxiaoc/maxfuse)**: MAtching X-modality via FUzzy Smoothed Embedding.
-- **[MARIO](https://github.com/shuxiaoc/mario-py)**: Single-cell proteomic data matching and integration pipeline.
+- **MaxFuse** [`github.com/shuxiaoc/maxfuse`](https://github.com/shuxiaoc/maxfuse): Matching across weakly-linked modalities.
+- **MARIO** [`github.com/shuxiaoc/mario-py`](https://github.com/shuxiaoc/mario-py): Matching across partial strongly-linked modalities.
 
 ### Information fusion between expression and image-level information
-- **[CellLENS](https://github.com/sggao/celllens)**: Cell Local Environment and Neighborhood Scan.
+- **CellLENS** [`github.com/sggao/celllens`](https://github.com/sggao/celllens): Expression and image fusion for better cell type delineation.
 
 ### Quantitative analysis of tissue disease states
-- **[MESA](https://mesa-py.readthedocs.io/en/latest/)**: Multiomics and Ecological Spatial Analysis.
+- **MESA** [`mesa-py.readthedocs.io`](https://mesa-py.readthedocs.io/en/latest/): Multiomics and Ecological Spatial Analysis.
 
 ### Spatial-omics and microbiome
-- **[MicroCart-analysis](https://github.com/BokaiZhu/microcart_analysis)**: Microbiome Cartography (Part 1).
-- **[MicroCart-probe](https://github.com/BokaiZhu/microbiomeFISH)**: Microbiome Cartography (Part 2).
+- **MicroCart-analysis** [`github.com/BokaiZhu/microcart_analysis`](https://github.com/BokaiZhu/microcart_analysis): Microbiome Cartography (Part 1).
+- **MicroCart-probe** [`github.com/BokaiZhu/microbiomeFISH`](https://github.com/BokaiZhu/microbiomeFISH): Microbiome Cartography (Part 2).
 
 ### Signal spillover correction in spatial-omics
-- **[REDSEA](https://github.com/nolanlab/REDSEA)**: REinforcement Dynamic Spillover EliminAtion.
+- **REDSEA** [`github.com/nolanlab/REDSEA`](https://github.com/nolanlab/REDSEA): REinforcement Dynamic Spillover EliminAtion.
