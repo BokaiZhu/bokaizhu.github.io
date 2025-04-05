@@ -1,11 +1,8 @@
 ---
-permalink: /resources/
+layout: archive
 title: "Resources"
-excerpt: "Resources"
+permalink: /Resources/
 author_profile: true
-redirect_from: 
-  - /resources/
-  - /resources.html
 ---
 
 ### Integration between single-cell genomics and spatial-omics
