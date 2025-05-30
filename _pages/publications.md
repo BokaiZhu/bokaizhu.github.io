@@ -10,6 +10,14 @@ For full list of my publications, please refer to my [google scholar](https://sc
 Recent
 ======
 
+[CellLENS enables cross-domain information fusion for enhanced cell population delineation in single-cell spatial omics data](https://www.nature.com/articles/s41590-025-02163-1)\
+<small>__Bokai Zhu*__, Sheng Gao*, Shuxiao Chen*, Yuchen Wang, Jason Yeung, Yunhao Bai, Amy Y Huang, Yao Yu Yeo, Guanrui Liao, Shulin Mao, Zhenghui G Jiang, Scott J Rodig, Ka-Chun Wong, Alex K Shalek, Garry P Nolan\#, Sizun Jiang\#, Zongming Ma\#</small>\
+*Nature Immunology* (2025)
+
+[Quantitative characterization of tissue states using multiomics and ecological spatial analysis](https://www.nature.com/articles/s41588-025-02119-z)\
+<small>Daisy Yi Ding*, Zeyu Tang*, __Bokai Zhu*__, Hongyu Ren, Alex K Shalek, Robert Tibshirani, Garry P Nolan\#</small>\
+*Nature Genetics* (2025)
+
 [A multi-omics spatial framework for host-microbiome dissection within the intestinal tissue microenvironment](https://www.nature.com/articles/s41467-025-56237-7)\
 <small>__Bokai Zhu__, Yunhao Bai, Yao Yu Yeo, Xiaowei Lu, Xavier Rovira-Clavé, Han Chen, Jason Yeung, Dingani Nkosi, Jonathan Glickman, Antonio Delgado-Gonzalez, Georg K. Gerber, Mike Angelo, Alex K. Shalek, Garry P. Nolan\# & Sizun Jiang\#</small>\
 *Nature Communications* (2025)
