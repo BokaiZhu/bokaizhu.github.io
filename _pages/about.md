@@ -21,9 +21,9 @@ Selected Publications
 ======
 (Chronologically ordered)
 
-[Cross-domain information fusion for enhanced cell population delineation in single-cell spatial-omics data](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1)\
+[CellLENS enables cross-domain information fusion for enhanced cell population delineation in single-cell spatial omics data](https://www.nature.com/articles/s41590-025-02163-1)\
 <small>__Bokai Zhu\*__, Sheng Gao\*, Shuxiao Chen\*, Yuchen Wang, Jason Yeung, Yunhao Bai, Amy Y. Huang, Yao Yu Yeo, Guanrui Liao, Shulin Mao, Zhenghui G. Jiang, Scott J. Rodig, Ka-Chun Wong, Alex K. Shalek, Garry P. Nolan\#, Sizun Jiang\#, & Zongming Ma\#</small> \
-*Nature Immunology* (In press)
+*Nature Immunology* (2025)
 
 [Quantitative characterization of tissue states using multiomics and ecological spatial analysis](https://www.nature.com/articles/s41588-025-02119-z)\
 <small>Daisy Yi Ding\*, Zeyu Tang\*, __Bokai Zhu\*__, Hongyu Ren, Alex K. Shalek, Robert Tibshirani\# & Garry P. Nolan\#</small> \
